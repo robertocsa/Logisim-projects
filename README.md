@@ -1,4 +1,4 @@
-# Sistematologica-Logisim
+# Logisim projects
 Para arquivamento de arquivos elaborados no aplicativo Logisim, em especial sobre displays de sete dígitos
 ![Apresentação - displays sete segmentos](https://user-images.githubusercontent.com/3252597/155453134-5e9ef61b-bc36-4008-b82c-d7750f13af5b.png)
 <img width="657" alt="Apresntc" src="https://user-images.githubusercontent.com/3252597/155453135-ebea2ec2-cb0d-467b-b579-f2ca3168d41f.png">
