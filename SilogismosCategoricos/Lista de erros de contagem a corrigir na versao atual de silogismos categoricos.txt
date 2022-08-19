@@ -1,0 +1,46 @@
+O aplicativo que fiz no Logisim está contando erradamente:
+Deu como válidos os seguintes argumentos:
+Item 1- AAA1 1 Correto
+Item 2- EAA4 9 regra 3 ilicito menor e regra 5
+Item 3- OEA4 33 regra 4 e regra 5
+Item 4- AAE1 66 regra3 (ilícito maior)
+Item 5- EAI4 69 regra 5 e regra 6
+Item 6- EAE2 71 Correto
+Item 7- OAA4 76
+Item 8- AEE3 082 regra 3 il. maior
+Item 9- EEA4 84 regra 4
+Item 10- IEA4 88 regra 3
+Item 11- AOE3 115 regra 2
+Item 12- IOA4 120 regra 3 il. maior e menor
+Item 13- AAE4 128 Existencial regra 6
+Item 14- IAE4 136 regra 2
+Item 15-OAE4 140 regras 2 e 5
+Item 16-AIE4 160 Correto? 
+Item 17-AII1 161 Correto
+Item 18-AII3 163
+Item 19-IIE4 168
+Item 20-IAI4 200
+Item 21-OAI4 204
+Item 22-OAO3 207
+Item 23-IEI4 216
+Item 24-AIO1 225
+Item 25-AIO3 227
+Item 26-EIO2 230
+Item 27-III4 232
+Item 28-OIO2 238
+Item 29-AOO2 242
+Item 30-AOO3 243
+Item 31-IOI4 248
+
+
+
+
+
+
+
+
+
+
+
+
+
